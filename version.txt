@@ -1,3 +1,3 @@
-villagevivant-a3abca88.jar
-dc2ea25a04f8ff6797fd030278c81a42ecadbff9a367d2a710adf093605a9f33
-https://github.com/Hadriel33/simscraft-maj/releases/download/va3abca88/villagevivant-a3abca88.jar
+villagevivant-f178e374.jar
+34029470aa0c64614ab0118bd585c5763a031516668e92c84ee87126e08f2b78
+https://github.com/Hadriel33/simscraft-maj/releases/download/vf178e374/villagevivant-f178e374.jar
